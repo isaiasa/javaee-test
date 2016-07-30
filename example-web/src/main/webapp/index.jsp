@@ -6,7 +6,7 @@
 <h2>Hello World! WS WORK JavaEE Test</h2>
 
 <ul>
-	<li>Task 1: Faça deploy e ponha para rodar esta aplicação em um TomEE 1.7.4. plus (nos envie o artefato gerado) </li>
+	<li>Task 1: FaÃ§a deploy e ponha para rodar esta aplicaÃ§Ã£o em um TomEE 1.7.4. plus (nos envie o artefato gerado) </li>
 	
 	<li>Task 2: Complete o ddl existente no arquivo (db_scripts/ddl.sql). 
 	
@@ -20,7 +20,7 @@
 				
 				company_products ( id, product_id, company_id, number_of_items ) </li>
 				
-	<li> Task 3: crie o código (classes) JPA) e também DAO (com EntityManager injetado) para fazer um CRUD desse modelo 
+	<li> Task 3: crie o cÃ³digo (classes) JPA) e tambÃ©m DAO (com EntityManager injetado) para fazer um CRUD desse modelo 
 	
 				* crie e configure o persistence.xml
 				* coloque suas classes usando orm.xml (Object relation mapping)
@@ -40,13 +40,13 @@
 	
 	<li> Task 5: Remova o cache de JPA apenas para consultas de lista de categorias. </li>
 
-	<li> Task 6: Utilize EJB para acessar da interface as consultas no BD. (dica, use um Business Delagate, SessionFacade, etc para concentrar o lookup) - Lembre-se, o TomEE é JavaEE Full Profile e usa OopenEJB. </li>
+	<li> Task 6: Utilize EJB para acessar da interface as consultas no BD. (dica, use um Business Delegate, SessionFacade, etc para concentrar o lookup) - Lembre-se, o TomEE Ã© JavaEE Full Profile e usa OopenEJB. </li>
 	
 	<li> Task 7: Implemente um teste para o sistema usando Junit (garanta 50% de cobertura usando Emma/Jacoco). 
-	             Faça com que o artefato só seja gerado se o teste passar. </li>
+	             FaÃ§a com que o artefato sÃ³ seja gerado se o teste passar. </li>
 	             
 	
-	<li> Task 8: Faça agora o deploy desta aplicação funcionar no TomEE. </li>
+	<li> Task 8: FaÃ§a agora o deploy desta aplicaÃ§Ã£o funcionar no TomEE. </li>
 	
 </ul>
 
