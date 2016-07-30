@@ -23,7 +23,7 @@
 	<li> Task 3: crie o código (classes) JPA) e também DAO (com EntityManager injetado) para fazer um CRUD desse modelo 
 	
 				* crie e configure o persistence.xml
-				* coloque suas classes usando orm.xml (Object relation mapping)
+				* coloque suas queries usando orm.xml (Object relation mapping)
 	</li>
 	
 	
