@@ -28,7 +28,7 @@
 	
 	
 	
-	<li> Task 4: Crie um endpoint RestFul que entregue: 
+	<li> Task 4: Crie um endpoint REST que entregue: 
 	             Lista de categorias, 
 	             Lista de empresas (filtrada por categoryId), 
 	             Lista de produtos (filtrados pelo id da empresa) 
