@@ -48,6 +48,8 @@ o quiser usar XML, fique a vontade para usar anotaçoes de classe</li>
 	
 	<li> Task 8: Faça agora o deploy desta aplicação funcionar no TomEE. </li>
 	
+	<li> Task 9: Faça um pull request com seu codigo. </li>
+	
 </ul>
 
 </body>
